@@ -1,0 +1,26 @@
+{
+    "name": "fetch-json",
+    "version": "0.0.1",
+    "description": "发送请求，获取JSON数据",
+    "main": "index.js",
+    "scripts": {
+        "build": "rollup --config rollup.conf.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wangzongyao/fetchJson.git"
+    },
+    "author": "243348045@qq.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Wangzongyao/fetchJson/issues"
+    },
+    "homepage": "https://github.com/Wangzongyao/fetchJson#readme",
+    "dependencies": {
+        "rollup": "^2.26.5"
+    },
+    "devDependencies": {
+        "eslint": "^7.7.0",
+        "eslint-config-airbnb": "^18.2.0"
+    }
+}
